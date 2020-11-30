@@ -42,8 +42,8 @@ namespace SubDocumentIterator
         private static void ProcessShapes(ShapeCollection shapes, SubDocumentDelegate subDocumentProcessor)
         {
             foreach (Shape shape in shapes)
-                if (shape.TextBox != null)
-                    subDocumentProcessor(shape.TextBox.Document);
+                if (shape.ShapeFormat.TextBox != null)
+                    subDocumentProcessor(shape.ShapeFormat.TextBox.Document);
         }
         private static void ProcessComments(CommentCollection comments, SubDocumentDelegate subDocumentProcessor)
         {
