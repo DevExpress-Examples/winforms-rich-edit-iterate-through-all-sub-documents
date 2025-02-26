@@ -1,5 +1,7 @@
 Imports DevExpress.XtraRichEdit.API.Native
-Imports System.Runtime.CompilerServices
+Imports System.Linq
+Imports System.Text
+Imports System.Threading.Tasks
 
 Namespace SubDocumentIterator
 
