@@ -16,8 +16,8 @@ RichEditControl's document is split into logical parts - [SubDocuments](https://
 
 | C# | Visual Basic |
 |---|---|
-| [Form1.cs](./CS/SubDocumentIterator/Form1.cs) | [Form1.vb](./VB/SubDocumentIterator/Form1.vb) |
-| [SubDocumentHelper.cs](./CS/SubDocumentIterator/SubDocumentHelper.cs) | [SubDocumentHelper.vb](./VB/SubDocumentIterator/SubDocumentHelper.vb) |
+| [Form1.cs](./CS/Form1.cs) | [Form1.vb](./VB/Form1.vb) |
+| [SubDocumentHelper.cs](./CS/SubDocumentHelper.cs) | [SubDocumentHelper.vb](./VB/SubDocumentHelper.vb) |
 
 # Documentation
 

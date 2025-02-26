@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SubDocumentIterator", "SubDocumentIterator\SubDocumentIterator.csproj", "{03226D84-90FC-4F9B-9D6B-5A09B3FC5330}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SubDocumentIterator", "SubDocumentIterator.csproj", "{03226D84-90FC-4F9B-9D6B-5A09B3FC5330}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

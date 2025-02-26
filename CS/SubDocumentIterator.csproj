@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+    <PropertyGroup>
+        <TargetFramework>net9.0</TargetFramework>
+        <OutputType>WinExe</OutputType>
+        <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
+        <UseWindowsForms>true</UseWindowsForms>
+        <ImportWindowsDesktopTargets>true</ImportWindowsDesktopTargets>
+    </PropertyGroup>
+    <ItemGroup>
+        <None Update="template.docx">
+            <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+        </None>
+    </ItemGroup>
+    <ItemGroup>
+        <PackageReference Include="Microsoft.CSharp" Version="4.7.0" />
+        <PackageReference Include="System.Data.DataSetExtensions" Version="4.5.0" />
+        <PackageReference Include="DevExpress.Win.BonusSkins" Version="24.2.*" />
+        <PackageReference Include="DevExpress.Win.RichEdit" Version="24.2.*" />
+    </ItemGroup>
+</Project>
