@@ -10,7 +10,7 @@ RichEditControl's document is split into logical parts - [SubDocuments](https://
 
 This example demonstrates how to implement an extension method for RichEditControl.Document and specify a delegate that will be executed for each SubDocument in a document. This approach allows modifying the entire document content in a single place.
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=winforms-rich-edit-iterate-through-all-sub-documents&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=winforms-rich-edit-iterate-through-all-sub-documents&~~~was_helpful=no)
 
